@@ -55,6 +55,7 @@
 	background: var(--bg_main);
 	color: var(--text_dark);
 	padding: 70px;
+	padding-top: 10px;
   }
   
   .container {
@@ -200,7 +201,7 @@
   }
   
   #logo{
-	width: 400px;
+	width: 20vh;
 	/* height: 400px; */
   }
   
